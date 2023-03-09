@@ -16,10 +16,10 @@ Browsing with Splinter and HTML parsing with BeautifulSoup was used to scrape in
       - The table was scraped to answer the following questions:
 
 
-         * How many months exist on Mars?
-         * How many Martian (and not Earth) days worth of data exist in the scraped dataset?
-         * What are the coldest and the warmest months on Mars (at the location of Curiosity)?
-         * Which months have the lowest and the highest atmospheric pressure on Mars?
-         * About how many terrestrial (Earth) days exist in a Martian year? 
+            * How many months exist on Mars?
+            * How many Martian (and not Earth) days worth of data exist in the scraped dataset?
+            * What are the coldest and the warmest months on Mars (at the location of Curiosity)?
+            * Which months have the lowest and the highest atmospheric pressure on Mars?
+            * About how many terrestrial (Earth) days exist in a Martian year? 
 
 
