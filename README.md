@@ -4,7 +4,7 @@
 Browsing with Splinter and HTML parsing with BeautifulSoup was used to scrape information from 2 sites: 
 
 1. **Mars News**: https://static.bc-edx.com/data/web/mars_news/index.html
-        - This site included Mars news articles.
+        - This site included Mars news articles
         - Titles and preview text of the news articles were scraped and extracted
 
 
